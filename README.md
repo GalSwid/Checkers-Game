@@ -1,5 +1,5 @@
 ## Checkers-Game     
-<img height="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png"> <img height="50" src=https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png>
+<img height="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png"> <img height="50" src="https://play-lh.googleusercontent.com/Gs6kFTfe9wy0kp3RvMMhCEejwohHaVUEaY9mda3aweBM9S6BLjLo7Nu4uTNNDN9gPfk=w240-h480-rw"> <img height="50" src=https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png>
 
 As part of the course "OOP in C# and the .Net Framework" in computer science degree at The Academic College of Tel-Aviv Yaffo, We developed the popular game "Checkers" in the English version for the windows application. The game was developed in C# using OOP concepts, Windows Forms and the .NET framework. 
 
